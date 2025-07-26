@@ -3,7 +3,7 @@
 # SQL Labs
 
 
-<a href="vhttps://github.com/Ycastillo2003/Complete-a-SQL-join">Complete a SQL join </a>
+<a href="https://github.com/Ycastillo2003/Complete-a-SQL-join">Complete a SQL join </a>
 
 <a href="https://github.com/Ycastillo2003/Filter-a-SQL-query">Filtera SQL query </a>
 
