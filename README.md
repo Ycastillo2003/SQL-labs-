@@ -5,7 +5,7 @@
 
 <a href="https://github.com/Ycastillo2003/Complete-a-SQL-join">Complete a SQL join </a>
 
-<a href="https://github.com/Ycastillo2003/Filter-a-SQL-query">Filtera SQL query </a>
+<a href="https://github.com/Ycastillo2003/Filter-a-SQL-query">Filtering a SQL query </a>
 
 <a href="https://github.com/Ycastillo2003/Perform-a-SQL-query">Perform a SQL query </a>
 
